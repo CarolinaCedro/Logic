@@ -27,6 +27,8 @@ public class Medidas {
         System.out.println("AREA DO TRIANGULO: "+triangulo);
         System.out.println("AREA DO TRAPEZIO: "+trapezio);
 
+        teste
+
 
     }
 }
