@@ -2,7 +2,7 @@
 //casa decimal, bem como o valor do metro quadrado do terreno com duas casas decimais. Em seguida,
 //o programa deve mostrar o valor da área do terreno, bem como o valor do preço do terreno, ambos com
 //duas casas decimais.
-
+package condicional;
 import java.util.Scanner;
 
 public class Terreno {
