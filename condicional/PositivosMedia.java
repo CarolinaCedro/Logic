@@ -46,7 +46,7 @@ public class PositivosMedia {
             mediaPositivos+=n6;
         }
 
-        System.out.printf("%.0f valores positivos %n",positivos);
-        System.out.printf("%.1f",mediaPositivos/positivos);
+        System.out.printf("%.0f valores positivos%n",positivos);
+        System.out.printf("%.1f%n",mediaPositivos/positivos);
     }
 }
