@@ -6,12 +6,14 @@ public class FatorialSimples {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int N, fat;
+        int N, fat=1;
 
         N = sc.nextInt();
 
-        for (int i = 0; i < N; i++) {
-            N *= (N - i);
+        for (int i = 1; i <=N; i++) {
+            fat = fat*i;
         }
+
+        System.out.println(fat);
     }
 }
